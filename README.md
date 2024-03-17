@@ -13,6 +13,7 @@ Rice is one of the three major crops in the world. The hyperspectral identificat
 
 Reference：
 
+<pre>
 @article{ge2024rice,
   title={Rice seed classification by hyperspectral imaging system: A real-world dataset and a credible algorithm},
   author={Ge, Yufei and Song, Shaozhong and Yu, Shuang and Zhang, Xiaoli and Li, Xiongfei},
@@ -22,4 +23,4 @@ Reference：
   year={2024},
   publisher={Elsevier}
   }
-
+</pre>
